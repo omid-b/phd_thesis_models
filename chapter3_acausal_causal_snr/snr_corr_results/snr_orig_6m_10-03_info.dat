@@ -1,0 +1,4 @@
+Columns: sta1, sta2, az, baz, dist, nstack, acausal_snr, causal_snr, sym_snr
+
+Reference distance: 455
+Reference nStack: 363
